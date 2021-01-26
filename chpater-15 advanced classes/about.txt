@@ -1,0 +1,7 @@
+advanced class related exercises
+-> inheritance
+-> nested class
+-> method override
+-> sealed class
+-> secondary constructor
+-> visibility modifier
